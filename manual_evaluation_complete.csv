@@ -1,0 +1,251 @@
+query,category,engine,rank,recipe_id,recipe_name,score,relevant
+chocolate cake,keyword,TF-IDF,1,391941,store bought chocolate cake and milk,0.37896525859832764,1
+chocolate cake,keyword,Embeddings,1,218428,the ultimate fudgy chocolate cake of love,0.6444300413131714,1
+chocolate cake,keyword,TF-IDF,2,4952,cake mix chocolate cookies,0.36394625902175903,0
+chocolate cake,keyword,Embeddings,2,308211,best ever chocolate cake   recipe,0.6268442273139954,1
+chocolate cake,keyword,TF-IDF,3,80473,miracle whip chocolate cake,0.34872177243232727,1
+chocolate cake,keyword,Embeddings,3,58223,cookies and cream cake,0.6258347034454346,0
+chocolate cake,keyword,TF-IDF,4,125687,sunflower centerpiece,0.3309163451194763,0
+chocolate cake,keyword,Embeddings,4,99061,chocolate thunder cake,0.6128908395767212,1
+chocolate cake,keyword,TF-IDF,5,309543,reese s cup chocolate cake,0.32952791452407837,1
+chocolate cake,keyword,Embeddings,5,55753,heavenly chocolate cake,0.6097496747970581,1
+chicken soup,keyword,TF-IDF,1,15063,my own lazy day recipe   chicken noodle soup,0.29249104857444763,1
+chicken soup,keyword,Embeddings,1,41397,super simple and speedy chicken soup,0.6959067583084106,1
+chicken soup,keyword,TF-IDF,2,41397,super simple and speedy chicken soup,0.28760412335395813,1
+chicken soup,keyword,Embeddings,2,297229,chicken soup to die for,0.679916501045227,1
+chicken soup,keyword,TF-IDF,3,216002,eggs   chicken soup,0.2853425145149231,1
+chicken soup,keyword,Embeddings,3,381521,baked chicken soup,0.6691259145736694,1
+chicken soup,keyword,TF-IDF,4,452150,tammy s chicken soup,0.27768847346305847,1
+chicken soup,keyword,Embeddings,4,264884,easy chicken and veggie soup,0.6647611856460571,1
+chicken soup,keyword,TF-IDF,5,87915,hash browns chicken soup,0.2725537121295929,1
+chicken soup,keyword,Embeddings,5,8583,wedding soup,0.6637627482414246,0
+pasta carbonara,keyword,TF-IDF,1,152634,josh s sort of carbonara or cheesy bacon pasta,0.26495200395584106,1
+pasta carbonara,keyword,Embeddings,1,286031,carbonara,0.6972448825836182,1
+pasta carbonara,keyword,TF-IDF,2,150064,light fettuccine carbonara,0.2308330088853836,1
+pasta carbonara,keyword,Embeddings,2,30451,my fake pasta carbonara,0.6960532665252686,1
+pasta carbonara,keyword,TF-IDF,3,118102,carbonara sauce,0.2300414890050888,1
+pasta carbonara,keyword,Embeddings,3,112066,pasta alla carbonara,0.6627813577651978,1
+pasta carbonara,keyword,TF-IDF,4,351138,jamie olivers pasta carbonara,0.22107301652431488,1
+pasta carbonara,keyword,Embeddings,4,151088,carbonara al franco,0.6626185774803162,1
+pasta carbonara,keyword,TF-IDF,5,344744,awesome spaghetti carbonara w  chicken,0.2129932940006256,1
+pasta carbonara,keyword,Embeddings,5,351138,jamie olivers pasta carbonara,0.6587750911712646,1
+banana bread,keyword,TF-IDF,1,447563,lynne s banana bread,0.3677457869052887,1
+banana bread,keyword,Embeddings,1,509130,mr  foods banana bread best banana bread ever,0.737236738204956,1
+banana bread,keyword,TF-IDF,2,382651,healthy wheat banana bread,0.3641892075538635,1
+banana bread,keyword,Embeddings,2,311552,joyce s unbeatable banana bread,0.7260638475418091,1
+banana bread,keyword,TF-IDF,3,138866,dora benston s pioneer banana bread,0.362201452255249,1
+banana bread,keyword,Embeddings,3,430478,deliciously simple banana bread,0.7166303396224976,1
+banana bread,keyword,TF-IDF,4,91733,banana bread bread pudding,0.34821149706840515,1
+banana bread,keyword,Embeddings,4,23507,best healthy banana bread,0.7153204083442688,1
+banana bread,keyword,TF-IDF,5,260923,granny frazier s banana bread,0.33993518352508545,1
+banana bread,keyword,Embeddings,5,319415,best banana bread recipe,0.7094783186912537,1
+grilled salmon,keyword,TF-IDF,1,51955,honey bourbon salmon,0.3906606435775757,1
+grilled salmon,keyword,Embeddings,1,115390,best grilled salmon,0.7039055824279785,1
+grilled salmon,keyword,TF-IDF,2,307777,whiskey sauce for grilled salmon,0.378129780292511,0
+grilled salmon,keyword,Embeddings,2,143508,grilled salmon with vegetables,0.701322078704834,1
+grilled salmon,keyword,TF-IDF,3,181774,salmon with creamy horseradish sauce,0.3737245202064514,1
+grilled salmon,keyword,Embeddings,3,95266,glazed grilled salmon,0.6840394735336304,1
+grilled salmon,keyword,TF-IDF,4,22098,garlic lemon butter for grilled salmon,0.3733595013618469,0
+grilled salmon,keyword,Embeddings,4,63080,brown sugar grilled salmon,0.6831626892089844,1
+grilled salmon,keyword,TF-IDF,5,235863,grilled salmon with citrus dill marinade,0.36371392011642456,1
+grilled salmon,keyword,Embeddings,5,87547,grilled salmon with herb cheese sauce,0.6637957096099854,1
+caesar salad,keyword,TF-IDF,1,273796,mika s super fast  caesar salad,0.4862709641456604,1
+caesar salad,keyword,Embeddings,1,239538,easy  mostly traditional  caesar salad,0.7169608473777771,1
+caesar salad,keyword,TF-IDF,2,389741,hotel caesar s caesar salad,0.39675232768058777,1
+caesar salad,keyword,Embeddings,2,332235,lemon caesar salad,0.7017544507980347,1
+caesar salad,keyword,TF-IDF,3,121166,caesar chicken salad sandwiches,0.35490724444389343,1
+caesar salad,keyword,Embeddings,3,166280,simple  scrumptious caesar salad with quick garlic croutons,0.697615385055542,1
+caesar salad,keyword,TF-IDF,4,460446,caesar salad bagels,0.34022846817970276,1
+caesar salad,keyword,Embeddings,4,264992,the great caesar salad,0.6945408582687378,1
+caesar salad,keyword,TF-IDF,5,23616,outback steakhouse caesar salad dressing,0.328978031873703,1
+caesar salad,keyword,Embeddings,5,241629,grape caesar salad,0.6873162984848022,1
+beef stew,keyword,TF-IDF,1,32363,homebakes   knock off beef stew and biscuits,0.326986163854599,1
+beef stew,keyword,Embeddings,1,45160,old fashioned beef stew,0.6952769160270691,1
+beef stew,keyword,TF-IDF,2,266929,crock pot southwestern beef stew,0.3055232763290405,1
+beef stew,keyword,Embeddings,2,68074,award winning beef stew,0.6879081130027771,1
+beef stew,keyword,TF-IDF,3,170058,tuscan beef stew,0.30525171756744385,1
+beef stew,keyword,Embeddings,3,333883,drunk beef stew,0.6848351955413818,1
+beef stew,keyword,TF-IDF,4,8531,crock pot beef stew,0.294813334941864,1
+beef stew,keyword,Embeddings,4,70372,beef and beer stew,0.6785205602645874,1
+beef stew,keyword,TF-IDF,5,142205,effortless beef stew,0.29478752613067627,1
+beef stew,keyword,Embeddings,5,472096,classic beef stew,0.6766407489776611,1
+apple pie,keyword,TF-IDF,1,422604,apple pie parfait  big on taste  not calories,0.38609880208969116,1
+apple pie,keyword,Embeddings,1,330370,apple pie by grandma ople,0.6988130807876587,1
+apple pie,keyword,TF-IDF,2,395671,all american apple pie spread,0.38278070092201233,1
+apple pie,keyword,Embeddings,2,8134,apple pie  1,0.688987135887146,1
+apple pie,keyword,TF-IDF,3,395408,crustless apple pie,0.37867361307144165,1
+apple pie,keyword,Embeddings,3,458830,casseys apple pie,0.6620018482208252,1
+apple pie,keyword,TF-IDF,4,142204,zucchini apple pie filling,0.36006906628608704,1
+apple pie,keyword,Embeddings,4,263371,appelpaj  swedish apple pie,0.6595239043235779,1
+apple pie,keyword,TF-IDF,5,57763,deep dish apple pie with its own crust,0.3560711145401001,1
+apple pie,keyword,Embeddings,5,191860,pumpkin apple pie,0.6570403575897217,1
+garlic bread,keyword,TF-IDF,1,388186,pan toasted garlic bread,0.2799440622329712,1
+garlic bread,keyword,Embeddings,1,46183,amazing garlic bread,0.7473368048667908,1
+garlic bread,keyword,TF-IDF,2,369352,gilroy garlic bread,0.2794356942176819,1
+garlic bread,keyword,Embeddings,2,431294,crowd favorite garlic bread,0.7457782030105591,1
+garlic bread,keyword,TF-IDF,3,178276,al s garlic bread,0.26238811016082764,1
+garlic bread,keyword,Embeddings,3,91560,garlic flat bread,0.7186815738677979,1
+garlic bread,keyword,TF-IDF,4,128812,fantastic garlic bread,0.2594744861125946,1
+garlic bread,keyword,Embeddings,4,107933,bread machine garlic bread,0.7131448984146118,1
+garlic bread,keyword,TF-IDF,5,425356,garlic roast beef sandwiches,0.2573171854019165,0
+garlic bread,keyword,Embeddings,5,219519,crazy good garlic breadsticks,0.7022510766983032,1
+fried rice,keyword,TF-IDF,1,137200,fried rice chicken soup,0.30893847346305847,1
+fried rice,keyword,Embeddings,1,432965,very  simple fried rice,0.6801518201828003,1
+fried rice,keyword,TF-IDF,2,247155,hibachi style fried rice,0.30802491307258606,1
+fried rice,keyword,Embeddings,2,135066,simplest fried rice,0.6789088249206543,1
+fried rice,keyword,TF-IDF,3,197711,easy fried rice with veggies,0.28777655959129333,1
+fried rice,keyword,Embeddings,3,202646,special fried rice,0.6727742552757263,1
+fried rice,keyword,TF-IDF,4,108112,cashew fried rice,0.28310614824295044,1
+fried rice,keyword,Embeddings,4,66932,healthy  fried rice,0.671047568321228,1
+fried rice,keyword,TF-IDF,5,256631,easy ham fried rice,0.2693853974342346,1
+fried rice,keyword,Embeddings,5,424216,aromatic vegetable fried rice  su cai chao fan,0.666451096534729,1
+comfort food for a rainy day,semantic,TF-IDF,1,104494,janet s banana bread,0.23881086707115173,0
+comfort food for a rainy day,semantic,Embeddings,1,155939,lentil soup for miserable rainy days,0.526984453201294,1
+comfort food for a rainy day,semantic,TF-IDF,2,81729,no bake butterscotch drops,0.2335326373577118,0
+comfort food for a rainy day,semantic,Embeddings,2,408585,turkish lentil soup,0.4654731750488281,1
+comfort food for a rainy day,semantic,TF-IDF,3,108059,rainy day yellow cake,0.22363458573818207,1
+comfort food for a rainy day,semantic,Embeddings,3,402890,grandma s rainy day kimchi noodle soup,0.44937509298324585,1
+comfort food for a rainy day,semantic,TF-IDF,4,254805,chicken italia soup,0.223598450422287,1
+comfort food for a rainy day,semantic,Embeddings,4,99427,cozy orzo and white bean soup,0.4489559531211853,1
+comfort food for a rainy day,semantic,TF-IDF,5,243500,coffee nudge,0.22338667511940002,0
+comfort food for a rainy day,semantic,Embeddings,5,468437,rainy day collards and lentil soup,0.4320124387741089,1
+healthy dinner after gym,semantic,TF-IDF,1,401047,apple  pineapple casserole,0.1502292901277542,0
+healthy dinner after gym,semantic,Embeddings,1,316789,amy s workout winner,0.4950518012046814,1
+healthy dinner after gym,semantic,TF-IDF,2,104332,easy  easy glazed onions,0.14428319036960602,0
+healthy dinner after gym,semantic,Embeddings,2,265201,the answer  protein shake,0.48580634593963623,1
+healthy dinner after gym,semantic,TF-IDF,3,343756,pineapple rum slush,0.12249220907688141,0
+healthy dinner after gym,semantic,Embeddings,3,278705,brown rice and grilled vegetable salad,0.48537561297416687,1
+healthy dinner after gym,semantic,TF-IDF,4,38145,reservation casserole,0.12187698483467102,0
+healthy dinner after gym,semantic,Embeddings,4,57193,low fat low calorie savory ham and rice dinner,0.4726696014404297,1
+healthy dinner after gym,semantic,TF-IDF,5,498712,star drink,0.12180991470813751,0
+healthy dinner after gym,semantic,Embeddings,5,43870,ready after church pot roast dinner,0.4649801254272461,0
+quick weeknight meal,semantic,TF-IDF,1,57570,arugula pesto pasta,0.25587719678878784,1
+quick weeknight meal,semantic,Embeddings,1,293494,monday night special,0.5811442136764526,1
+quick weeknight meal,semantic,TF-IDF,2,384132,sloppy joe ziti,0.22357019782066345,1
+quick weeknight meal,semantic,Embeddings,2,19596,quickie chicken and noodles,0.5772041082382202,1
+quick weeknight meal,semantic,TF-IDF,3,91969,elena s chicken francese,0.22131219506263733,0
+quick weeknight meal,semantic,Embeddings,3,40996,quick beef soup,0.5770149827003479,1
+quick weeknight meal,semantic,TF-IDF,4,267660,quick and easy ham casserole,0.20936475694179535,1
+quick weeknight meal,semantic,Embeddings,4,48672,super easy supper,0.5747414827346802,1
+quick weeknight meal,semantic,TF-IDF,5,81110,gorgonzola linguine,0.20790371298789978,0
+quick weeknight meal,semantic,Embeddings,5,162432,quick weeknight chili,0.5734305381774902,1
+romantic dinner for two,semantic,TF-IDF,1,355889,cheese for starters    done,0.22265246510505676,1
+romantic dinner for two,semantic,Embeddings,1,116410,romantic chicken mushroom rollups,0.4763714671134949,1
+romantic dinner for two,semantic,TF-IDF,2,227438,grilled asparagus with blue cheese butter and red onion chutney,0.2024005949497223,1
+romantic dinner for two,semantic,Embeddings,2,355889,cheese for starters    done,0.45709556341171265,1
+romantic dinner for two,semantic,TF-IDF,3,203729,spiked spiced berries,0.18984454870224,1
+romantic dinner for two,semantic,Embeddings,3,176744,tenderloin for two with peppercorn cream,0.4376662075519562,1
+romantic dinner for two,semantic,TF-IDF,4,287711,tortellini with parmesan cream sauce,0.18966048955917358,1
+romantic dinner for two,semantic,Embeddings,4,50530,chicken breasts stuffed with apples   cheddar,0.4314152002334595,1
+romantic dinner for two,semantic,TF-IDF,5,121067,shrimp in pernod cream sauce,0.18328844010829926,1
+romantic dinner for two,semantic,Embeddings,5,460294,romantic seafood soup for two,0.4255673289299011,1
+impressive dish for guests,semantic,TF-IDF,1,254656,cranberry orange pork tenderloin,0.15864251554012299,1
+impressive dish for guests,semantic,Embeddings,1,389664,mary alice s hoagie dip in a bread bowl  food network,0.49690383672714233,1
+impressive dish for guests,semantic,TF-IDF,2,228502,crostini with mascarpone  berries and honey,0.1549030840396881,1
+impressive dish for guests,semantic,Embeddings,2,195596,pom o sa,0.4878603219985962,0
+impressive dish for guests,semantic,TF-IDF,3,305336,caprese bites,0.15353524684906006,1
+impressive dish for guests,semantic,Embeddings,3,202732,neptune s delight,0.4789455533027649,0
+impressive dish for guests,semantic,TF-IDF,4,72479,prosciutto wrapped chicken,0.1510779857635498,1
+impressive dish for guests,semantic,Embeddings,4,40615,margaret wood s mushroom casserole,0.4743330478668213,1
+impressive dish for guests,semantic,TF-IDF,5,360662,chili rice dinner,0.15005560219287872,0
+impressive dish for guests,semantic,Embeddings,5,59952,global gourmet  taco casserole,0.47288644313812256,1
+light summer meal,semantic,TF-IDF,1,219569,tequila mussels with tomatoes   jalapenos,0.21393722295761108,1
+light summer meal,semantic,Embeddings,1,132012,summer stew,0.6006155610084534,1
+light summer meal,semantic,TF-IDF,2,247042,citrus splash,0.19988396763801575,1
+light summer meal,semantic,Embeddings,2,295469,skip and go naked,0.5894766449928284,0
+light summer meal,semantic,TF-IDF,3,52067,summer wheatberry salad,0.19655373692512512,1
+light summer meal,semantic,Embeddings,3,84689,summer time fruit salad,0.5849230885505676,1
+light summer meal,semantic,TF-IDF,4,30554,outrageously easy and healthy bean  corn and sprouts bowl for one  vegan,0.19578008353710175,1
+light summer meal,semantic,Embeddings,4,11978,sarah s fabulous summer pasta salad,0.5831899642944336,1
+light summer meal,semantic,TF-IDF,5,335607,chef boy i be illinois  warm white bean salad with prosciutto,0.18174150586128235,0
+light summer meal,semantic,Embeddings,5,294449,quick green bean and tomato  salad,0.5814319849014282,1
+warm cozy winter food,semantic,TF-IDF,1,99427,cozy orzo and white bean soup,0.18532609939575195,1
+warm cozy winter food,semantic,Embeddings,1,275129,winter soup,0.5158095359802246,1
+warm cozy winter food,semantic,TF-IDF,2,36090,cozy steak   beans soup,0.14279215037822723,1
+warm cozy winter food,semantic,Embeddings,2,468278,winter white vegetable soup,0.5123841166496277,1
+warm cozy winter food,semantic,TF-IDF,3,476525,granny s pork and sauerkraut,0.1389842927455902,1
+warm cozy winter food,semantic,Embeddings,3,74031,arkansas hot browns,0.5077647566795349,1
+warm cozy winter food,semantic,TF-IDF,4,48679,spicy friendship tea mix,0.13559755682945251,1
+warm cozy winter food,semantic,Embeddings,4,99651,it s cold outside bean and sausage chowder,0.5072262287139893,1
+warm cozy winter food,semantic,TF-IDF,5,309902,vanilla coffee mix,0.12828581035137177,0
+warm cozy winter food,semantic,Embeddings,5,104595,sylvie s vegetable stuffed tortillas,0.49590981006622314,0
+kid friendly lunch,semantic,TF-IDF,1,35277,ants on a log,0.20393304526805878,0
+kid friendly lunch,semantic,Embeddings,1,242398,lunch on a stick  for kids,0.6183677911758423,1
+kid friendly lunch,semantic,TF-IDF,2,289368,pesto and mozzarella sandwiches,0.20233875513076782,1
+kid friendly lunch,semantic,Embeddings,2,248985,lunchable cracker stacker lunch,0.588125467300415,1
+kid friendly lunch,semantic,TF-IDF,3,508541,little lou s grilled ham   cheese,0.19824212789535522,1
+kid friendly lunch,semantic,Embeddings,3,461129,cheese and soft pretzel sandwich,0.5524483919143677,1
+kid friendly lunch,semantic,TF-IDF,4,161477,homemade  beenie weenie,0.19417446851730347,1
+kid friendly lunch,semantic,Embeddings,4,251773,snack stackers  lunch box surprise,0.5407713651657104,1
+kid friendly lunch,semantic,TF-IDF,5,242398,lunch on a stick  for kids,0.1916223019361496,1
+kid friendly lunch,semantic,Embeddings,5,379849,lunch box fun due,0.5342284440994263,1
+lazy sunday breakfast,semantic,TF-IDF,1,10225,potato and egg salad for the lazy,0.17225265502929688,1
+lazy sunday breakfast,semantic,Embeddings,1,505659,lazy eggs,0.5767250061035156,1
+lazy sunday breakfast,semantic,TF-IDF,2,287208,sausage breakfast rolls,0.17168135941028595,1
+lazy sunday breakfast,semantic,Embeddings,2,256153,murray s poor man s breakfast,0.5627557039260864,1
+lazy sunday breakfast,semantic,TF-IDF,3,348976,lazy man s beef stew,0.1665549874305725,0
+lazy sunday breakfast,semantic,Embeddings,3,353194,easy peasy breakfast waffles,0.5462186336517334,1
+lazy sunday breakfast,semantic,TF-IDF,4,281436,lazy garlic parmesan risotto,0.16094084084033966,0
+lazy sunday breakfast,semantic,Embeddings,4,78561,lazy day stew,0.5347683429718018,0
+lazy sunday breakfast,semantic,TF-IDF,5,315256,guacamole perezoso,0.16041919589042664,1
+lazy sunday breakfast,semantic,Embeddings,5,311279,perfect sunday breakfast,0.5241135358810425,1
+something sweet and indulgent,semantic,TF-IDF,1,448619,spiced cooked apples   no sugar,0.1560344249010086,1
+something sweet and indulgent,semantic,Embeddings,1,286978,lighter chocolate fondue  or ganache,0.5641598701477051,1
+something sweet and indulgent,semantic,TF-IDF,2,419111,choco nana peanut butter smoothie,0.15408281981945038,1
+something sweet and indulgent,semantic,Embeddings,2,32524,sweet cheesy delight,0.5409624576568604,0
+something sweet and indulgent,semantic,TF-IDF,3,314350,easy orange julius,0.14576837420463562,1
+something sweet and indulgent,semantic,Embeddings,3,261289,lovely,0.5277785062789917,0
+something sweet and indulgent,semantic,TF-IDF,4,280273,dd s  specialty toast,0.1429295539855957,0
+something sweet and indulgent,semantic,Embeddings,4,133178,mind blowing brownies,0.5185232162475586,1
+something sweet and indulgent,semantic,TF-IDF,5,360483,hazelnut butter,0.13919036090373993,1
+something sweet and indulgent,semantic,Embeddings,5,17787,irresistible chocolate cake,0.5160917043685913,1
+vegan dessert,dietary_cuisine,TF-IDF,1,172394,cake,0.19805355370044708,0
+vegan dessert,dietary_cuisine,Embeddings,1,68420,vegan berry pie,0.6727194786071777,1
+vegan dessert,dietary_cuisine,TF-IDF,2,471226,decadent vegan chocolate mousse,0.1938602179288864,1
+vegan dessert,dietary_cuisine,Embeddings,2,317338,vegan fruit butter bars,0.6437117457389832,1
+vegan dessert,dietary_cuisine,TF-IDF,3,257317,vegan chicken salad,0.18813163042068481,1
+vegan dessert,dietary_cuisine,Embeddings,3,70943,vegan pastry cream,0.6430211067199707,1
+vegan dessert,dietary_cuisine,TF-IDF,4,501760,vegan ice cream,0.1734464317560196,1
+vegan dessert,dietary_cuisine,Embeddings,4,360810,vegan chocolate mocha pie,0.6428928971290588,1
+vegan dessert,dietary_cuisine,TF-IDF,5,13869,vegan graham cracker crust  for vegan cheesecake,0.173306405544281,1
+vegan dessert,dietary_cuisine,Embeddings,5,98559,vegan crannberry currant oatmeal cookies,0.6292599439620972,1
+gluten free dinner,dietary_cuisine,TF-IDF,1,231417,gluten free flour,0.40385887026786804,1
+gluten free dinner,dietary_cuisine,Embeddings,1,308397,baked cereal squares  gluten free,0.5919796228408813,1
+gluten free dinner,dietary_cuisine,TF-IDF,2,434885,gluten free cream of chicken soup  adapted from bette hagman s c,0.373539000749588,1
+gluten free dinner,dietary_cuisine,Embeddings,2,452475,gluten free low carb pizza,0.5779566168785095,1
+gluten free dinner,dietary_cuisine,TF-IDF,3,173353,gfcf breakfast bar,0.35409897565841675,1
+gluten free dinner,dietary_cuisine,Embeddings,3,501849,moroccan rice salad  gluten free,0.5772727727890015,1
+gluten free dinner,dietary_cuisine,TF-IDF,4,396252,gluten free creamy potato soup,0.3381982445716858,1
+gluten free dinner,dietary_cuisine,Embeddings,4,376028,ranch chicken thigh s gluten free,0.5624532699584961,1
+gluten free dinner,dietary_cuisine,TF-IDF,5,324211,gluten free chex party mix,0.32867228984832764,1
+gluten free dinner,dietary_cuisine,Embeddings,5,324211,gluten free chex party mix,0.5598359107971191,1
+italian pasta dish,dietary_cuisine,TF-IDF,1,387662,linguine verde,0.22203466296195984,1
+italian pasta dish,dietary_cuisine,Embeddings,1,305079,easy italian pasta casserole,0.7491059303283691,1
+italian pasta dish,dietary_cuisine,TF-IDF,2,240653,clam pasta,0.21210643649101257,1
+italian pasta dish,dietary_cuisine,Embeddings,2,276094,pasta alla puttanesca,0.7167593240737915,1
+italian pasta dish,dietary_cuisine,TF-IDF,3,303238,kale   sausage,0.2111334204673767,0
+italian pasta dish,dietary_cuisine,Embeddings,3,176435,pasta puttanesca   the madame s pasta,0.7101465463638306,1
+italian pasta dish,dietary_cuisine,TF-IDF,4,337285,linguine alla vongole,0.20384709537029266,1
+italian pasta dish,dietary_cuisine,Embeddings,4,312658,the best italian pomodoro sauce,0.7000429630279541,1
+italian pasta dish,dietary_cuisine,TF-IDF,5,408720,american   italian pasta salad,0.194844588637352,1
+italian pasta dish,dietary_cuisine,Embeddings,5,3593,italian vegetable pasta bake,0.699785590171814,1
+asian stir fry,dietary_cuisine,TF-IDF,1,12563,szechuan bok choy,0.3019334375858307,1
+asian stir fry,dietary_cuisine,Embeddings,1,9686,asian style vegetable stir fry,0.7237097024917603,1
+asian stir fry,dietary_cuisine,TF-IDF,2,38444,thai peanut stir fry sauce,0.2909706234931946,1
+asian stir fry,dietary_cuisine,Embeddings,2,254752,stir fried asian vegetables,0.7015950083732605,1
+asian stir fry,dietary_cuisine,TF-IDF,3,72008,soy sesame stir fry sauce,0.28363490104675293,1
+asian stir fry,dietary_cuisine,Embeddings,3,187959,vegetable surprise  stir fry,0.6776681542396545,1
+asian stir fry,dietary_cuisine,TF-IDF,4,254752,stir fried asian vegetables,0.2755540609359741,1
+asian stir fry,dietary_cuisine,Embeddings,4,426651,thai chicken stir fry   4 points,0.6682419776916504,1
+asian stir fry,dietary_cuisine,TF-IDF,5,321068,stir fry opo with ground pork,0.27517956495285034,1
+asian stir fry,dietary_cuisine,Embeddings,5,336781,beef stir fry   asian style,0.6323963403701782,1
+low carb meal,dietary_cuisine,TF-IDF,1,299258,low carb flax muffins,0.18764299154281616,1
+low carb meal,dietary_cuisine,Embeddings,1,59166,my low carb catsup,0.6713808178901672,1
+low carb meal,dietary_cuisine,TF-IDF,2,390825,low carb taco salad,0.1841694563627243,1
+low carb meal,dietary_cuisine,Embeddings,2,135257,low carb chili   you never know the difference,0.6679461598396301,1
+low carb meal,dietary_cuisine,TF-IDF,3,470501,low carb chocolate mug cake,0.17836400866508484,1
+low carb meal,dietary_cuisine,Embeddings,3,236144,low fat  low calorie  low carb wedding soup,0.6583665609359741,1
+low carb meal,dietary_cuisine,TF-IDF,4,415765,passover  low carb chocolate cake,0.1723703145980835,1
+low carb meal,dietary_cuisine,Embeddings,4,344634,low carb breakfast patty,0.6514604091644287,1
+low carb meal,dietary_cuisine,TF-IDF,5,69598,veggiegirl s low carb  lasagna,0.16924583911895752,1
+low carb meal,dietary_cuisine,Embeddings,5,119229,low carb meatballs,0.6418095827102661,1
